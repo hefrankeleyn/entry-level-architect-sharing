@@ -14,7 +14,7 @@
 
 目前手写中间件在持续更新中，下面是我手写中间件的代码参考，大家共同进步，欢迎随时邮件和我交流：
 
-> 2024年7月16更新说明：手写缓存已经更新完，正在更新手写消息队列～
+> 2024年7月20 更新说明：手写消息队列正在更新～
 
 ### （1）gitee 上的代码地址
 
@@ -25,7 +25,7 @@
 - [手写网关](https://gitee.com/hefren/hhgateway)：https://gitee.com/hefren/hhgateway
 - [手写缓存](https://gitee.com/hefren/hhcache)：https://gitee.com/hefren/hhcache
 
-- 手写消息队列（正在更新）
+- [手写消息队列](https://gitee.com/hefren/hhmq)：https://gitee.com/hefren/hhmq
 
 ### （2）github上的代码地址
 
@@ -36,4 +36,4 @@
 - [手写网关](https://github.com/hefrankeleyn/hefgateway)：https://github.com/hefrankeleyn/hefgateway
 - [手写缓存](https://github.com/hefrankeleyn/hefcache)：https://github.com/hefrankeleyn/hefcache
 
-- 手写消息队列（正在更新）
+- [手写消息队列](https://github.com/hefrankeleyn/hefmq)：https://github.com/hefrankeleyn/hefmq
