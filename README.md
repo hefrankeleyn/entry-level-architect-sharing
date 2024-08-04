@@ -14,7 +14,7 @@
 
 目前手写中间件在持续更新中，下面是我手写中间件的代码参考，大家共同进步，欢迎随时邮件和我交流：
 
-> 2024年08月01 更新说明：手写消息队列更新完成～
+> 2024年08月04 更新说明：正在更新，分布式文件系统～
 
 ### （1）gitee 上的代码地址
 
@@ -27,6 +27,8 @@
 
 - [手写消息队列](https://gitee.com/hefren/hhmq)：https://gitee.com/hefren/hhmq
 
+- [分布式文件系统：https://gitee.com/hefren/hhdfs](https://gitee.com/hefren/hhdfs)
+
 ### （2）github上的代码地址
 
 - [手写RPC](https://github.com/hefrankeleyn/hefrpc)：https://github.com/hefrankeleyn/hefrpc
@@ -37,3 +39,5 @@
 - [手写缓存](https://github.com/hefrankeleyn/hefcache)：https://github.com/hefrankeleyn/hefcache
 
 - [手写消息队列](https://github.com/hefrankeleyn/hefmq)：https://github.com/hefrankeleyn/hefmq
+
+- [分布式文件系统：https://github.com/hefrankeleyn/hefdfs](https://github.com/hefrankeleyn/hefdfs)
