@@ -14,7 +14,7 @@
 
 目前手写中间件在持续更新中，下面是我手写中间件的代码参考，大家共同进步，欢迎随时邮件和我交流：
 
-> 2024年08月13 更新说明：正在更新手写分库分表中间件。
+> 2024年08月17 更新说明：正在更新手写分库分表中间件。
 
 ### （1）gitee 上的代码地址
 
@@ -31,6 +31,8 @@
 
 - [演示基于ORM拦截SQL：https://gitee.com/hefren/hhorm-interceptor](https://gitee.com/hefren/hhorm-interceptor)
 
+- [手写分库分表中间件：https://gitee.com/hefren/hhsharding](https://gitee.com/hefren/hhsharding)
+
 ### （2）github上的代码地址
 
 - [手写RPC](https://github.com/hefrankeleyn/hefrpc)：https://github.com/hefrankeleyn/hefrpc
@@ -45,4 +47,8 @@
 - [分布式文件系统：https://github.com/hefrankeleyn/hefdfs](https://github.com/hefrankeleyn/hefdfs)
 
 - [演示基于ORM拦截SQL：https://github.com/hefrankeleyn/heform-interceptor](https://github.com/hefrankeleyn/heform-interceptor)
+
+- [手写分库分表中间件：https://github.com/hefrankeleyn/hefsharding](https://github.com/hefrankeleyn/hefsharding)
+
+
 
