@@ -14,7 +14,7 @@
 
 目前手写中间件在持续更新中，下面是我手写中间件的代码参考，大家共同进步，欢迎随时邮件和我交流：
 
-> 2024年08月17 更新说明：正在更新手写分库分表中间件。
+> 2024年08月23 更新说明：手写分库分表中间件完成。
 
 ### （1）gitee 上的代码地址
 
@@ -49,6 +49,4 @@
 - [演示基于ORM拦截SQL：https://github.com/hefrankeleyn/heform-interceptor](https://github.com/hefrankeleyn/heform-interceptor)
 
 - [手写分库分表中间件：https://github.com/hefrankeleyn/hefsharding](https://github.com/hefrankeleyn/hefsharding)
-
-
 
