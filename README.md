@@ -14,8 +14,6 @@
 
 目前手写中间件在持续更新中，下面是我手写中间件的代码参考，大家共同进步，欢迎随时邮件和我交流：
 
-> 2024年08月23 更新说明：手写分库分表中间件完成。
-
 ### （1）gitee 上的代码地址
 
 - [手写RPC](https://gitee.com/hefren/hhrpc)：https://gitee.com/hefren/hhrpc
@@ -49,4 +47,14 @@
 - [演示基于ORM拦截SQL：https://github.com/hefrankeleyn/heform-interceptor](https://github.com/hefrankeleyn/heform-interceptor)
 
 - [手写分库分表中间件：https://github.com/hefrankeleyn/hefsharding](https://github.com/hefrankeleyn/hefsharding)
+
+## 三、其它实践内容
+
+### （1）gitee上的代码地址
+
+- [springcloud的简单使用：https://gitee.com/hefren/springcloud-demo](https://gitee.com/hefren/springcloud-demo)
+
+### （2）github上的代码地址
+
+- [springcloud的简单使用：https://github.com/hefrankeleyn/springcloud-demo](https://github.com/hefrankeleyn/springcloud-demo)
 
