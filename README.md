@@ -53,8 +53,10 @@
 ### （1）gitee上的代码地址
 
 - [springcloud的简单使用：https://gitee.com/hefren/springcloud-demo](https://gitee.com/hefren/springcloud-demo)
+- https://gitee.com/hefren/hefspringcloudgateway-started
 
 ### （2）github上的代码地址
 
 - [springcloud的简单使用：https://github.com/hefrankeleyn/springcloud-demo](https://github.com/hefrankeleyn/springcloud-demo)
+- https://github.com/hefrankeleyn/hefspringcloudgateway-started
 
